@@ -41,11 +41,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
-## Current Personal Projects
-+ Drinking Water REST API OpenSource & Public
-+ Automating My Telescope!
-+ OpenCV Project to Track My Cats!
-+ More PyTorch Fun!!
 
 <!--
 **AndrewRentschler/AndrewRentschler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
